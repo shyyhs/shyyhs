@@ -58,7 +58,7 @@ My LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a
 
    Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre, Hideki Tanaka
 
-   LREC-COLING 2024. And **Best Paper Award** at AfricaNLP 2024 co-located with the ICLR 2024 🏆 [Paper](https://aclanthology.org/2024.lrec-main.1071/)
+   LREC-COLING 2024. And **Best Paper Award** at AfricaNLP 2024 co-located with ICLR 2024 🏆 [Paper](https://aclanthology.org/2024.lrec-main.1071/)
 
 6. DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation
 
@@ -73,7 +73,7 @@ My LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a
 
 - **2026**: 🏆 **Outstanding Paper Award** at **EMNLP 2026** for [OptiMer](https://shyyhs.github.io/optimer/)!
 - **2025**: Grant-in-Aid for Early-Career Scientists (JSPS KAKENHI), Principal Investigator.
-- **2024**: 🏆 **Rank 1st** in the Indic speech translation track in IWSLT 2024!
+- **2024**: 🏆 **1st place** in the Indic speech translation track, IWSLT 2024!
 - **2024**: 🏆 **Best Paper Award** at AfricaNLP 2024 for [NGLUEni](https://aclanthology.org/2024.lrec-main.1071/)!
 - **2021**: JSPS Research Fellowship for Young Scientists (DC1)
 - **2013**: Silver medal, National Olympiad in Informatics (NOI) in China
