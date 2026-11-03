@@ -13,9 +13,9 @@ LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a741
 
 # 🔥 News
 
-- **2026-10**: Our paper [OptiMer](https://shyyhs.github.io/optimer/) won the **Outstanding Paper Award** at **EMNLP 2026**! 🏆
-- **2026-08**: Three papers accepted to **EMNLP 2026** (one Main, two Findings)!
-- **2025-10**: Four papers accepted to **IJCNLP-AACL 2025** (three Main, one System Demonstrations)!
+- **2026-10**: Our paper OptiMer won the **Outstanding Paper Award** at EMNLP 2026! 🏆
+- **2026-08**: Three papers accepted to EMNLP 2026 (one Main, two Findings)!
+- **2025-10**: Four papers accepted to IJCNLP-AACL 2025 (three Main, one System Demonstrations)!
 
 
 # 📝 Selected Publications
@@ -61,7 +61,7 @@ LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a741
 
 # 🎖 Awards
 
-- **2026**: 🏆 **Outstanding Paper Award** at **EMNLP 2026** for [OptiMer](https://shyyhs.github.io/optimer/)!
+- **2026**: 🏆 **Outstanding Paper Award** at EMNLP 2026 for [OptiMer](https://shyyhs.github.io/optimer/)!
 - **2025**: Grant-in-Aid for Early-Career Scientists (JSPS KAKENHI), Principal Investigator.
 - **2024**: 🏆 **1st place** in the Indic speech translation track, IWSLT 2024!
 - **2024**: 🏆 **Best Paper Award** at AfricaNLP 2024 for [NGLUEni](https://aclanthology.org/2024.lrec-main.1071/)!
