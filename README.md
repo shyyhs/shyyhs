@@ -7,9 +7,9 @@ My research interests are in large language models and natural language processi
 <hr style="height:1px; border:none; border-top:1px solid #ccc;" />
 
 Homepage [shyyhs.github.io](https://shyyhs.github.io/)<br>
-Email haiyue.song.nlp@gmail.com<br>
 X (Twitter) [shyoyhs](https://x.com/shyoyhs)<br>
-LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a74186)
+LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a74186)<br>
+Email haiyue.song.nlp@gmail.com
 
 # 🔥 News
 
