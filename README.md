@@ -6,10 +6,10 @@ I received my Ph.D. in Informatics from Kyoto University in 2024, advised by Pro
 My research interests are in large language models and natural language processing. I primarily work on pre-, mid-, post-training methods for LLMs, including data crawling for low-resource languages, model merging, and reinforcement learning. I persistently work on multilingual, multicultural, and multimodal aspects of natural language processing. I periodically work on machine translation, tokenization, and language resources.
 <hr style="height:1px; border:none; border-top:1px solid #ccc;" />
 
-My Homepage [shyyhs.github.io](https://shyyhs.github.io/)<br>
-My Email haiyue.song.nlp@gmail.com<br>
-My Twitter [shyoyhs](https://x.com/shyoyhs)<br>
-My LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a74186)
+Homepage [shyyhs.github.io](https://shyyhs.github.io/)<br>
+Email haiyue.song.nlp@gmail.com<br>
+X (Twitter) [shyoyhs](https://x.com/shyoyhs)<br>
+LinkedIn [haiyue-song-844a74186](https://www.linkedin.com/in/haiyue-song-844a74186)
 
 # 🔥 News
 
