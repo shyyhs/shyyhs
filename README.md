@@ -1,19 +1,9 @@
 ## Haiyue Song (宋 海越)
-I am an LLM engineer at Preferred Networks (PFN), Japan. 
-I hold a Ph.D. in Informatics from Kyoto University, Japan.
 
-#### I train LLMs.
+Greetings! I am currently an LLM engineer at Preferred Networks. Previously, I worked at the National Institute of Information and Communications Technology with Masao Utiyama.
+I received my Ph.D. in Informatics from Kyoto University in 2024, advised by Prof. Sadao Kurohashi and Prof. Chenhui Chu. I completed my Bachelor’s degree in Computer Science and Technology at Shanghai Jiao Tong University in 2018, with a minor in Japanese.
 
-I post-train our Japanese LLM, PLaMo, at Preferred Networks, including reinforcement learning, long-context, and agent capabilities.
-
-I continue pre-train LLMs, including low-resource language adaptation, via specialized crawling, vocabulary extension and model merging.
-
-#### I research LLMs.
-
-I research multilingual, multicultural and multimodal LLMs,
-pre-, mid- and post- training methods in LLMs.
-
-I also research machine translation, including tokenization algorithms, low-resource languages, evaluation, structured translation.
+My research interests are in large language models and natural language processing. I primarily work on pre-, mid-, post-training methods for LLMs, including data crawling for low-resource languages, model merging, and reinforcement learning. I persistently work on multilingual, multicultural, and multimodal aspects of natural language processing. I periodically work on machine translation, tokenization, and language resources.
 <hr style="height:1px; border:none; border-top:1px solid #ccc;" />
 
 My Homepage [shyyhs.github.io](https://shyyhs.github.io/)<br>
