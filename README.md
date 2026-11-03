@@ -14,8 +14,8 @@ Email haiyue.song.nlp@gmail.com
 # 🔥 News
 
 - **2026-10**: Our paper OptiMer won the **Outstanding Paper Award** at EMNLP 2026! 🏆
-- **2026-08**: Three papers accepted to EMNLP 2026 (one Main, two Findings)!
-- **2025-10**: Four papers accepted to IJCNLP-AACL 2025 (three Main, one System Demonstrations)!
+- **2026-08**: Three papers accepted to EMNLP 2026!
+- **2025-10**: Four papers accepted to IJCNLP-AACL 2025!
 
 
 # 📝 Selected Publications
